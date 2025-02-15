@@ -1,0 +1,40 @@
+body {
+    font-family: 'Lobster', cursive;
+    background-color:#f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+hr{
+    color:#3674B5;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    font-size: 32px;
+}
+hr {
+    width: 100%;
+    margin: 20px auto;
+    border: 2px solid #333;
+}
+section {
+    margin: 40px auto; 
+    padding: 20px;
+    width: 80%; 
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0.5, 0.5, 0.5, 0.5);
+}
+h2 {
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+p {
+    color: #333;
+    font-size: 18px;
+    line-height: 1.6;
+}
